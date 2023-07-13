@@ -8,10 +8,15 @@ Task  : Predicting this Market Value of a player using the data provided below u
 Work done in python file ; 
 
 Use Seaborn to investigate the data and present your findings 
+
 Build models using all the algorithms above to predict market_value
+
 Tune the hyperparameters and build the most accurate model 
+
 Use model selection approaches discussed in class to choose the best model
+
 Implement a Genetic Algorithm for learning attribute weights for the Nearest Neighbour Algorithm.
+
 
 About the dataset : name: Name of the player
 club: Club of the player
