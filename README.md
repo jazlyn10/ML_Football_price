@@ -9,11 +9,13 @@ Work done in python file ;
 
 Use Seaborn to investigate the data and present your findings 
 
-Build models using all the algorithms above to predict market_value
+Do feature selection
+
+Build models using all the algorithms to predict market_value
 
 Tune the hyperparameters and build the most accurate model 
 
-Use model selection approaches discussed in class to choose the best model
+Use model selection approaches to choose the best model
 
 Implement a Genetic Algorithm for learning attribute weights for the Nearest Neighbour Algorithm.
 
